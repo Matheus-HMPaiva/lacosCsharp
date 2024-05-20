@@ -1,0 +1,14 @@
+C:\Users\Matheus\Desktop\Estudo C# - MOD 1 - Laços\Lacos\bin\Debug\net8.0\Lacos.exe
+C:\Users\Matheus\Desktop\Estudo C# - MOD 1 - Laços\Lacos\bin\Debug\net8.0\Lacos.deps.json
+C:\Users\Matheus\Desktop\Estudo C# - MOD 1 - Laços\Lacos\bin\Debug\net8.0\Lacos.runtimeconfig.json
+C:\Users\Matheus\Desktop\Estudo C# - MOD 1 - Laços\Lacos\bin\Debug\net8.0\Lacos.dll
+C:\Users\Matheus\Desktop\Estudo C# - MOD 1 - Laços\Lacos\bin\Debug\net8.0\Lacos.pdb
+C:\Users\Matheus\Desktop\Estudo C# - MOD 1 - Laços\Lacos\obj\Debug\net8.0\Lacos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Matheus\Desktop\Estudo C# - MOD 1 - Laços\Lacos\obj\Debug\net8.0\Lacos.AssemblyInfoInputs.cache
+C:\Users\Matheus\Desktop\Estudo C# - MOD 1 - Laços\Lacos\obj\Debug\net8.0\Lacos.AssemblyInfo.cs
+C:\Users\Matheus\Desktop\Estudo C# - MOD 1 - Laços\Lacos\obj\Debug\net8.0\Lacos.csproj.CoreCompileInputs.cache
+C:\Users\Matheus\Desktop\Estudo C# - MOD 1 - Laços\Lacos\obj\Debug\net8.0\Lacos.dll
+C:\Users\Matheus\Desktop\Estudo C# - MOD 1 - Laços\Lacos\obj\Debug\net8.0\refint\Lacos.dll
+C:\Users\Matheus\Desktop\Estudo C# - MOD 1 - Laços\Lacos\obj\Debug\net8.0\Lacos.pdb
+C:\Users\Matheus\Desktop\Estudo C# - MOD 1 - Laços\Lacos\obj\Debug\net8.0\Lacos.genruntimeconfig.cache
+C:\Users\Matheus\Desktop\Estudo C# - MOD 1 - Laços\Lacos\obj\Debug\net8.0\ref\Lacos.dll
